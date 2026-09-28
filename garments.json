@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tshirt-black",
+    "name": "Classic Black T-Shirt",
+    "category": "top",
+    "imageUrl": "/assets/garments/tshirt-black.png",
+    "anchor": { "widthRatio": 1.35, "heightRatio": 1.55, "verticalOffsetRatio": -0.12 }
+  },
+  {
+    "id": "hoodie-grey",
+    "name": "Grey Pullover Hoodie",
+    "category": "top",
+    "imageUrl": "/assets/garments/hoodie-grey.png",
+    "anchor": { "widthRatio": 1.5, "heightRatio": 1.75, "verticalOffsetRatio": -0.15 }
+  },
+  {
+    "id": "jacket-denim",
+    "name": "Denim Jacket",
+    "category": "top",
+    "imageUrl": "/assets/garments/jacket-denim.png",
+    "anchor": { "widthRatio": 1.45, "heightRatio": 1.65, "verticalOffsetRatio": -0.13 }
+  }
+]
